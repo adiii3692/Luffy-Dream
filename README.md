@@ -1,7 +1,7 @@
 # Luffy's Dream
 
 ## Tech Used:
-1. Python(Pygame)
+1. Python (Pygame)
 
 ## Description:
 This project is a simple theme based adventure game created using the Python library pygame for my ICS3U1 final summative
