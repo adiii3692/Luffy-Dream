@@ -1,5 +1,8 @@
 # Luffy's Dream
 
+## Sneak Peek:
+![loading](https://user-images.githubusercontent.com/111661089/219257626-824be63b-924b-4361-ba01-533d9da2efc8.jpeg)
+
 ## Tech Used:
 1. Python (Pygame)
 
