@@ -2,6 +2,9 @@
 
 ## Sneak Peek:
 ![loading](https://user-images.githubusercontent.com/111661089/219257626-824be63b-924b-4361-ba01-533d9da2efc8.jpeg)
+![gameplay](https://user-images.githubusercontent.com/111661089/219258507-89486a13-a7f8-4800-982e-6735ac8bcc6a.jpeg)
+![win](https://user-images.githubusercontent.com/111661089/219258814-2f2260f5-60d9-4e21-9aa4-08b986fd6e63.jpeg)
+
 
 ## Tech Used:
 1. Python (Pygame)
